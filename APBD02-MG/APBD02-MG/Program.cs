@@ -7,3 +7,5 @@ Console.WriteLine("Press any key to exit...");
 System.Console.ReadKey();
 
 Console.WriteLine("Goodbye!");
+
+Console.WriteLine("w");
