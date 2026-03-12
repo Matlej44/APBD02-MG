@@ -28,6 +28,6 @@ static double CalculateAvarage(int[] numbers)
     {
         sum += numbers[i];
     }
-
-    return sum / numbers.Length;
+    
+    return (double)sum / numbers.Length;
 }
