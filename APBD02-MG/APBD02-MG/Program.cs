@@ -5,5 +5,3 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Press any key to exit...");
 
 System.Console.ReadKey();
-
-Console.WriteLine("Goodbye!2");
