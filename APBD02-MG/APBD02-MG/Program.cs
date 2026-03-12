@@ -20,6 +20,9 @@ Console.WriteLine("Rebase");
 int[] a = { 1, 2, 3 };
 CalculateAvarage(a);
 CalculateMax(a);
+
+Console.WriteLine("CalculateAvarage(a)");
+
 return 0;
 //Calculate Avarage function
 static double CalculateAvarage(int[] numbers)
