@@ -9,3 +9,5 @@ System.Console.ReadKey();
 Console.WriteLine("Goodbye!");
 
 Console.WriteLine("w");
+
+Console.ReadLine();
