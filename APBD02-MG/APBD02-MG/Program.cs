@@ -31,3 +31,7 @@ static double CalculateAvarage(int[] numbers)
     
     return (double)sum / numbers.Length;
 }
+static int CalculateMax(int[] numbers)
+{
+    return numbers.Max();
+}
