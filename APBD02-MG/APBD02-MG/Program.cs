@@ -12,6 +12,8 @@ Console.WriteLine("w");
 
 Console.ReadLine();
 
+Console.Write("D");
+
 Console.WriteLine("Main");
 
 Console.ReadLine();
