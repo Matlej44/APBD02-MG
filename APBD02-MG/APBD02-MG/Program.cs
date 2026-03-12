@@ -17,3 +17,17 @@ Console.ReadLine();
 //Console.Write("D");
 
 Console.WriteLine("Rebase");
+int[] a = { 1, 2, 3 };
+CalculateAvarage(a);
+return 0;
+
+static double CalculateAvarage(int[] numbers)
+{
+    int sum = 0;
+    for (int i = 0; i < numbers.Length; i++)
+    {
+        sum += numbers[i];
+    }
+
+    return sum / numbers.Length;
+}
