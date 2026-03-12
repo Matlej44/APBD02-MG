@@ -38,5 +38,6 @@ static int CalculateMax(int[] numbers)
 
 static int CalculateMin(int[] numbers)
 {
+    int min = numbers.Min();
     return 0;
 }
