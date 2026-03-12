@@ -10,6 +10,8 @@ Console.WriteLine("Goodbye!");
 
 Console.WriteLine("w");
 
+Console.WriteLine("Main");
+
 Console.ReadLine();
 
 Console.Write("D");
