@@ -21,6 +21,9 @@ int[] a = { 1, 2, 3 };
 CalculateAvarage(a);
 CalculateMax(a);
 
+Console.WriteLine("CalculateAvarage(a)");
+
+
 Console.WriteLine("CalculateMin(a)");
 
 return 0;
