@@ -15,7 +15,7 @@ Console.WriteLine("Main");
 Console.ReadLine();
 
 //Console.Write("D");
-
+ 
 Console.WriteLine("Rebase");
 int[] a = { 1, 2, 3 };
 CalculateAvarage(a);
